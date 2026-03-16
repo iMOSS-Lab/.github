@@ -8,9 +8,7 @@ Welcome to the official GitHub organisation of the iMOSS Laboratory, a research 
 ## 🔬 Research Vision
 The iMOSS research group develops **physics-informed and data-driven methodologies** to design, monitor, and control complex engineering systems.  Our research integrates mechanics, computation, sensing technologies, and artificial intelligence to enable next-generation smart structures and resilient infrastructures.
 
----
-
-## 🎯 Research Areas
+🎯 Research Areas
 - Structural Health Monitoring (SHM)
 - Structural Dynamics & Vibration
 - Smart Structures and Metamaterials
@@ -19,23 +17,22 @@ The iMOSS research group develops **physics-informed and data-driven methodologi
 - Uncertainty Quantification & Stochastic Methods
 - Renewable Energy Structures (e.g., Wind Turbines)
 
-Repository: https://github.com/iMOSS-Lab/Research-projects/tree/main
 ---
 
 ## 🧩 Repository Structure
 
 This organisation is structured to support **open science and reproducible research**:
 
-### 🧠 Core Software
+### 🧠 **[Core Software](https://github.com/iMOSS-Lab/Core-software)** 
 Long-term maintained scientific software developed by the laboratory.
 
-### 🔬 Research Projects
+### 🔬 **[Research projects](https://github.com/iMOSS-Lab/Research-projects)** 
 Repositories associated with funded projects and scientific publications, including reproducible workflows.
 
-### 📊 Datasets
+### 📊 **[Datasets](https://github.com/iMOSS-Lab/Datasets)** 
 Experimental and numerical datasets for benchmarking and validation in SHM and dynamics.
 
-### 🎓 Teaching
+### 🎓 **[Teaching material](https://github.com/iMOSS-Lab/Teaching-material)** 
 Course materials, tutorials, and educational resources for students and researchers.
 
 ### 🧱 Templates
@@ -47,15 +44,16 @@ Shared computational environments, workflows, and development tools.
 ---
 
 ## 🚀 Open Science Commitment
-
 The iMOSS Laboratory promotes:
-
 - Reproducible computational research  
 - Open scientific software  
 - Transparent data sharing  
 - Collaborative international research  
 
 If you use our software or datasets in academic work, please cite the corresponding repository.
+🌐 Links
+- Personal GitHub: https://github.com/mromarcela  
+- Personal webpage:https://sites.google.com/view/marcelamachado  
 
 <!---
 ---
@@ -70,21 +68,19 @@ Researcher in Structural Health Monitoring, Dynamic and Vibration.
 ## 🤝 Collaboration
 
 We welcome collaborations with academic and industrial partners in:
-
 - Structural monitoring and diagnostics
 - Intelligent materials and metastructures
 - AI for engineering systems
 - Renewable energy structures
 
----
-
-## 🌐 Links
-
-- Personal GitHub: https://github.com/mromarcela  
-- Personal webpage:https://sites.google.com/view/marcelamachado  
+**Involved institutions**
+University of Brasília
+Federal University of Amazonas
 
 ---
-
+<!---
+---## 🌐 Links
 ⭐ *Building innovative and intelligent life-cycle of structures and systems.*
-
+-->
+---
 
