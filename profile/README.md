@@ -19,6 +19,7 @@ The iMOSS research group develops **physics-informed and data-driven methodologi
 - Uncertainty Quantification & Stochastic Methods
 - Renewable Energy Structures (e.g., Wind Turbines)
 
+Repository: https://github.com/iMOSS-Lab/Research-projects/tree/main
 ---
 
 ## 🧩 Repository Structure
