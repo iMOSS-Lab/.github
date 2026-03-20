@@ -1,4 +1,4 @@
-# iMOSS Laboratory
+# MOSS Virtual Laboratory
 **Promoting intelligent life-cycle of Structures and systems**
 
 Welcome to the official GitHub organisation of the iMOSS Laboratory, a research group dedicated to advancing intelligent structural health monitoring, data-driven approaches in structural dynamics, vibration engineering, and smart mechanical systems.
